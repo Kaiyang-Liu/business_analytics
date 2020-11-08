@@ -4,4 +4,4 @@ This repo contains some basic python exercise related to text analysis, data ana
 
 ## 2
 This repo also contains a business analytics project related to the real world - Business insights of Airbnb in Fenway, Boston, USA.
-This project is a group project contains a breif business analytics report and a PowerPoint for presentation.
+This project is a group project contains a brief business analytics report and a PowerPoint for presentation.
